@@ -7,6 +7,8 @@ be displayed where indicated.
 
 The app is written in MIT App Inventor 2 and is currently available for Android devices only.  Source (.aia file) and installable app file (.apk file) are included.  To install the app on an Android mobile device, upload the .apk file to the device and tap on it to install the app.  You may be warned about an unverified app, but you can proceed to install it anyway.
 
-This project is licensed under a Creative Commons license Attribution-Non-Commercial 4.0.  To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+All materials contained in this repository are (c) 2018 by Bob Glicksman, Jim Schrempp and Team Practical Projects and are distributed freely under an open source, non-commercial license, see: https://creativecommons.org/licenses/by-nc/4.0/. Use of the material in this repository is subject to the document “Terms_of_Use_License_And_Disclaimer”, included in this repository.
 
-� 2018, by: Bob Glicksman, Jim Schrempp and Team Practical Projects.
+Enjoy,
+
+Team Practical Projects
